@@ -13,7 +13,8 @@ int main ()
     string input;
     system("Color 09");
     printf ("for windows only\n");
-    
+
+    cout << "@Kurt Vin" << endl << endl;
     cout << "__________________________" << endl << endl;
     cout << "Arithmetic Operators:"<< endl << endl;
     cout << "[+] Addition" << endl;
