@@ -3,7 +3,7 @@
 #include <cmath>
 #include <string>
 #include <math.h>
-#include <windows.h>
+//#include <windows.h>
 
 using namespace std;
 
@@ -11,7 +11,7 @@ int main ()
 {
 
     string input;
-    system("Color 09");
+    //system("Color 09");
     printf ("for windows only\n");
 
     cout << "@Kurt Vin" << endl << endl;
